@@ -24,5 +24,5 @@ piewszy teskst
 
 >inny kod z pythona :`print("witaj git")`
 
-
+![aaaa.png](aaaa.png)
 
